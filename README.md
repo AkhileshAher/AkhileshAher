@@ -82,7 +82,7 @@
     <a href="mailto:aherakhilesh88@gmail.com" target="_blank">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/AkhileshAher" target="_blank">
+    <a href="https://www.linkedin.com/in/akhilesh-aher" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </p>
