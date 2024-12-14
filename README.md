@@ -1,10 +1,17 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p>
-<h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" alt="Waving Hand GIF"> 
+
+<h1>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="50" alt="Waving Hand GIF"> 
     Hey! I'm Akhilesh Aher
+
+<a href="https://github.com/AkhileshAher?tab=repositories" target="_blank">
+ <img align="right" src="https://img.shields.io/badge/View%20Repositories-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories" width="200" />
+       
 </h1>
-</p>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="250" width="250">
+
+
+
 
 <p>
 <br>👋 About Me</br>
