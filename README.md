@@ -25,6 +25,7 @@
 <h2>Tech Stack<img id="typing-man"
         src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width="40px"
         style="position: relative;top: 7px;" alt=""></h2>
+        <br>
 <p>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
