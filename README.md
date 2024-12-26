@@ -48,7 +48,7 @@
 
  <hr style="height:1px;">
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhileshAher&layout=compact&theme=white&hide_border=false&border_radius=10" alt="Most Used Languages" width="35%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhileshAher&layout=compact&theme=white&hide_border=false&border_radius=10" alt="Most Used Languages" width="38%" />
   <img src="https://github-readme-stats.vercel.app/api?username=AkhileshAher&show_icons=true&theme=white&hide_border=false&border_radius=10" alt="GitHub Stats" width="48%" />
 </p>
 
