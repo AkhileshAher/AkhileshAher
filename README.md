@@ -6,6 +6,9 @@
 
 <a href="https://github.com/AkhileshAher?tab=repositories" target="_blank">
  <img align="right" src="https://img.shields.io/badge/View%20Repositories-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories" width="200" />
+<img align="right" src="https://komarev.com/ghpvc/?username=AkhileshAher&color=red&style=for-the-badge" alt="Profile Views" width="150" />
+
+
        
 </h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="250" width="250">
