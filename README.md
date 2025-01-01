@@ -25,9 +25,9 @@
 ---
 </p>
 
-<h2>Tech Stack<img id="typing-man"
+<h2><img id="typing-man"
         src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width="40px"
-        style="position: relative;top: 7px;" alt=""></h2>
+        style="position: relative;top: 7px;" alt="">Languages</h2>
         <br>
 <p>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white" />
@@ -49,21 +49,22 @@
   </p>
 
 
- <hr style="height:1px;">
-<p align="center">
+ <hr style="height:0.5px;">
+ <h3>📊Usage and Stats</h3>
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhileshAher&layout=compact&theme=white&hide_border=false&border_radius=10" alt="Most Used Languages" width="38%" />
   <img src="https://github-readme-stats.vercel.app/api?username=AkhileshAher&show_icons=true&theme=white&hide_border=false&border_radius=10" alt="GitHub Stats" width="48%" />
 </p>
 
 
-<h2>
+<h3>
     <img id="typing-man" 
         src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" 
         width="40px" 
         style="position: relative; top: 7px;" 
         alt="Typing Man Emoji"> 
     Currently Learning Tech Stack
-</h2>
+</h3>
 
 <p>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge" />
@@ -77,6 +78,15 @@
     <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus Badge" />
     <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX Badge" />
 </p>
+
+<h2>🏆 GitHub Profile Trophies </h2>
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=AkhileshAher&theme=gruvbox&row=1&column=4" alt="AkhileshAher GitHub Trophies" style="display: inline-block;"></a>
+
+
+
+
+
+
 
 <h3>Connect With Me</h3>
 <p>
