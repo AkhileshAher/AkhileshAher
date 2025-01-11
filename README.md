@@ -30,14 +30,16 @@
         style="position: relative;top: 7px;" alt="">Languages</h2>
         <br>
 <p>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML-FF4500?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS-0081CB?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySql-07405E?style=for-the-badge&logo=mysql&logoColor=white%22" alt="">
+<img src="https://img.shields.io/badge/C-1E90FF?style=for-the-badge&logo=C&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-8B0000?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-32CD32?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-FF4500?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-FFD700?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-00BFFF?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-FF6347?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap-FF1493?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/MySql-20B2AA?style=for-the-badge&logo=mysql&logoColor=white" />
+
 
 <!-- <img src="https://img.shields.io/badge/Bulma-00C7B7?style=for-the-badge&logo=bulma&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> -->
