@@ -91,14 +91,17 @@
 
 
 <h3>Connect With Me</h3>
+
 <p>
     <a href="https://github.com/AkhileshAher" target="_blank">
-        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+        <img alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="60" height="60"  />
     </a>
     <a href="mailto:aherakhilesh88@gmail.com" target="_blank">
-        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
+    <img alt="Gmail" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" width="80" height="60" />
+</a>
     <a href="https://www.linkedin.com/in/akhilesh-aher" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="60" height="60" />
     </a>
 </p>
+
+
