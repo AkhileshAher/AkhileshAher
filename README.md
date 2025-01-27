@@ -97,7 +97,7 @@
         <img alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="60" height="60"  />
     </a>
     <a href="mailto:aherakhilesh88@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" width="80" height="60" />
+    <img alt="Gmail" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" width="80" height="55" />
 </a>
     <a href="https://www.linkedin.com/in/akhilesh-aher" target="_blank">
         <img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="60" height="60" />
