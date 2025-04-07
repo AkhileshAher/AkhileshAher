@@ -65,7 +65,7 @@
         width="40px" 
         style="position: relative; top: 7px;" 
         alt="Typing Man Emoji"> 
-    Currently Learning Tech Stack
+     Tech Stack
 </h3>
 
 <p>
