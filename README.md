@@ -5,7 +5,7 @@
 
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b07219,50:e76f00,100:f89820&height=220&section=header&text=Akhilesh%20Aher&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descSize=22&descAlignY=60&animation=fadeIn" alt="Akhilesh Aher banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b07219,50:e76f00,100:f89820&height=220&section=header&text=Akhilesh%20Aher&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=%20Full%20Stack%20Developer&descSize=22&descAlignY=60&animation=fadeIn" alt="Akhilesh Aher banner" width="100%" />
 </div>
 
 <!-- TYPING INTRO -->
@@ -50,78 +50,47 @@ public class AkhileshAher {
 }
 ```
 
-- 💻 Passionate about clean code, open-source, and building impactful, production-ready applications
 - 🏗️ I build REST APIs and microservices with **Spring Boot**, persisting data with **Hibernate / Spring Data JPA**
 - 📨 I work with **Kafka** and **RabbitMQ** for asynchronous, event-driven communication between services
-- 🌱 Currently exploring containerisation, cloud deployment and CI/CD to ship what I build
+- 🌱 Currently exploring AI ML DL ...
 - 🤝 Open to collaborating on exciting projects and discussing tech ideas
 
 ---
+### 🛠️ Skills
 
-## ⚙️ Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle&perline=10" alt="Backend" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=java&logoColor=white" />
-</p>
-
-## 📨 Messaging & Event Streaming
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,redis&perline=10" alt="Messaging" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-## 🎨 Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=10" alt="Frontend" />
-</p>
-
-## 🗄️ Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=10" alt="Databases" />
-</p>
-
-## ☁️ DevOps & Cloud
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,githubactions,nginx&perline=10" alt="DevOps and Cloud" />
-</p>
-
-## 🧰 Tools & IDEs
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,intellij,eclipse,vscode,linux&perline=10" alt="Tools" />
-</p>
-
-## 🔤 Other Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python&perline=10" alt="Other languages" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <b>☕ Languages &amp; Backend</b><br><br>
+      <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,nodejs,express,spring,hibernate,maven,gradle&perline=5" alt="☕ Languages &amp; Backend" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <b>📨 Messaging</b><br><br>
+      <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,redis&perline=5" alt="📨 Messaging" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <b>🎨 Frontend</b><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=5" alt="🎨 Frontend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <b>🗄️ Databases</b><br><br>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=5" alt="🗄️ Databases" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <b>☁️ DevOps &amp; Cloud</b><br><br>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,githubactions,nginx&perline=5" alt="☁️ DevOps &amp; Cloud" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <b>🧰 Tools &amp; IDEs</b><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,intellij,eclipse,vscode,linux&perline=5" alt="🧰 Tools &amp; IDEs" />
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 ## 🧱 What I Build
 
